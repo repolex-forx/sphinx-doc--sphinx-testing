@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-doc",
+  "repo": "sphinx-testing",
+  "versions": [
+    {
+      "commit": "89bdde5cf7b3dc4057f48ea6cb84ee126b7b00b7",
+      "tag": "",
+      "parsed_at": "2026-10-15T15:10:14.907495+00:00"
+    }
+  ]
+}
